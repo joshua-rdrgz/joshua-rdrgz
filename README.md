@@ -55,7 +55,7 @@ I'm a Full Stack Developer with an emphasis on frontend technologies, working wi
 ### 🙋🏽 Feel Free To Reach Out!
 
 <div>
-  <a href="https://linkedin.com/in/joshua-j-rodriguez"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" /></a>
-  <a href="https://joshuarodriguezcoding.com"><img src="https://img.shields.io/badge/Portfolio-white?logo=react&logoColor=blue" title="Portfolio" alt="Portfolio" /></a>
-  <a href="mailto:joshuarodriguezcoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" title="Gmail" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/joshua-j-rodriguez" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" /></a>
+  <a href="https://joshuarodriguezcoding.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-white?logo=react&logoColor=blue" title="Portfolio" alt="Portfolio" /></a>
+  <a href="mailto:joshuarodriguezcoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" title="Gmail" alt="Gmail" /></a>
 </div>
