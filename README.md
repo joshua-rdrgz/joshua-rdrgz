@@ -1,17 +1,53 @@
 ## Hi there 👋🏽 I'm Josh!
 
-I'm a Full Stack Developer with an emphasis on frontend technologies, working with tools like ReactJS and Spring Boot to bring valuable web apps to life.
+I'm a Front End / Full Stack Engineer with 4 years of experience building **data-centric, high-performance UI/UX applications**.  
+I specialize in architecting **React/TypeScript systems that handle complex data relationships** (see: Tunesplit & NPDC), and I’m diving deep into **cross-platform products with real-time functionalities** (see: [Pocketwatch](https://github.com/joshua-rdrgz/pocketwatch)).
 
-### 👨🏽‍💻 &nbsp;My Notable Work
+---
 
-* **Lead Frontend Engineer for Tunesplit**, a React/Spring Boot platform for songwriters and music labels to manage their splitsheets.
-* **Frontend Contributions to National Police Data Coalition**, an organization striving to provide public access to police officer disciplinary records.
-* **Many Useful Full Stack Projects**:
-  * **ModelMetrics**, a React/Spring Boot platform for keeping track of time spent on 🤖 AI training platforms and gathering useful 📊 statistics about your work.
-  * **TransactionTracker**, a React/ExpressJS platform for managing all your 🏦 bank accounts and their transactions for a 💰 financially stable life.
-  * **LeetCode Solver**, a vanilla JS/Spring Boot app designed to solve ⚙️ Leetcode problems with an intuitive 🧑🏽‍💻 user interface.
+### 🚀 Featured Projects
 
-### 🛠 &nbsp;Tools and Languages I've Used:
+#### **Pocketwatch** ⏱ (Full Stack, Open Source)
+
+[![Pocketwatch](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshua-rdrgz/pocketwatch)
+
+_Real-time productivity analytics product for developers and freelancers_
+
+- Engineered a **cross-platform analytics tool** that tracks developer behavior to provide real-time efficiency insights.
+- Architected a **Chrome extension service worker** that coordinates 5+ specialized services, syncing state across **50–100+ concurrent browser contexts**.
+- Centralized WebSocket connections inside the service worker, **reducing server load by 90%** (10+ client connections collapsed into 1).  
+  **Stack:** React, TypeScript, Zustand, Next.js, ShadCN/UI, Express.js, Drizzle, Redis, PostgreSQL
+
+---
+
+#### **Tunesplit** 🎵 (Lead Front End Engineer, 🔒 Private Repo)
+
+_Digitizing music labels’ splitsheet & royalty coordination_
+
+- Led frontend development in a **13k+ LoC React/TypeScript codebase**, collaborating in a cross-functional team of 4.
+- Mentored 2 junior engineers while defining the **UI architecture + API integration standards** used across 10+ feature modules.
+- Optimized performance with **TanStack Query caching, optimistic updates, and debounced search**, achieving near-zero UI latency and cutting API requests by 60–80%.  
+  **Stack:** React, TypeScript, TanStack Query, Tailwind, ShadCN/Radix UI, Vite
+
+---
+
+#### **National Police Data Coalition (NPDC)** 🛡️
+
+(In Collaboration w/ [Develop For Good](https://www.developforgood.org/))  
+[![NPDC](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeforboston/police-data-trust)
+
+_Public accountability platform exposing police misconduct records_
+
+- **Led frontend development** for a nonprofit client’s transparency tool, enabling public access to officer misconduct data.
+- Built **interactive D3.js visualizations** rendering hundreds of records with responsive design.
+- Mentored 2 junior engineers on scalable UI patterns and **data-fetching strategies** with TanStack Query.  
+  **Stack:** React, TypeScript, Next.js, D3.js, TanStack Query
+
+---
+
+### 🛠 Tech Stack
+
+#### **Frontend**
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
